@@ -1,2 +1,1 @@
-# maiwei-ai.github.io
-MyGPT
+# zyq-chatgpt.github.io
